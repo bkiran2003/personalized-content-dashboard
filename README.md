@@ -106,7 +106,7 @@ npm run test
 
 ## 🌍 Live Deployment
 
-- Deploy in seconds to [Vercel](https://vercel.com/) or [Netlify](https://netlify.com/).
+
 - Both platforms autodetect Next.js apps.  
 - Connect your repo, hit deploy, and enjoy your live dashboard!
 
