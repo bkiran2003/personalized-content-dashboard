@@ -126,7 +126,8 @@ npm run test
 ---
 
 ## 📸 Screenshots
-![Screenshot 2025-07-20 222515](images/Screenshot%202025-07-2020%222427.png)
+![Screenshot 2025-07-20 222427](images/Screenshot%202025-07-20%20222427.png)
+
 ![Screenshot 2025-07-20 222515](images/Screenshot%202025-07-20%20222515.png)
 ![Screenshot 2025-07-20 222450](images/Screenshot%202025-07-20%20222450.png)
 
